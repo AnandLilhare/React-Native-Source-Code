@@ -7,7 +7,7 @@ const HomeScreen = ({ navigation }) => {
          onPress={() => navigation.navigate('Componets')}
          title='Go to Components Demo'/>
 
-<Button
+      <Button
          onPress={() => navigation.navigate('List')}
          title='Go to List Demo'
          />
